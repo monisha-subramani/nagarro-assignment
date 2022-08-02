@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.account.statement</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>accountStatement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>accountStatement</name>
 	<description>Database Server for Account statements</description>
