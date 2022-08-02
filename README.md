@@ -52,8 +52,9 @@ Result: Json object with list of statement for particular account id
 
 Build
 -----
+Note: In the AccountStatement project, Please make sure to change the "spring.datasource.url" value of jdbc:ucanaccess driver(line no 7) in the application.properties to point to the accountsdb.accdb DB file
 
--> mvn clean install (Do this for both AccountStatement and UserAccount projects
+-> mvn clean install (Do this for both AccountStatement and UserAccount projects)
 
 
 Run 
